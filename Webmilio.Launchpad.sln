@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelOrca.Launchpad", "IntelOrca.Launchpad\IntelOrca.Launchpad.csproj", "{FCF77754-C985-4F3D-BE0B-E14011C5DC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelOrca.LaunchpadTests", "IntelOrca.LaunchpadTests\IntelOrca.LaunchpadTests.csproj", "{C2C7FD5A-D56C-4C74-91E3-2D9F5D92FCA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webmilio.Launchpad", "Webmilio.Launchpad\Webmilio.Launchpad.csproj", "{6EF050A9-9367-4232-A195-43AF27FD72BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webmilio.Launchpad.SoundBoard", "Webmilio.Launchpad.SoundBoard\Webmilio.Launchpad.SoundBoard.csproj", "{AD37C900-FFC5-411A-9283-6163011C0F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webmilio.Launchpad.Commons", "Webmilio.Launchpad.Commons\Webmilio.Launchpad.Commons.csproj", "{2A7CE127-B28F-428B-912F-B5C4AD28D6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF77754-C985-4F3D-BE0B-E14011C5DC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF77754-C985-4F3D-BE0B-E14011C5DC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF77754-C985-4F3D-BE0B-E14011C5DC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF77754-C985-4F3D-BE0B-E14011C5DC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C7FD5A-D56C-4C74-91E3-2D9F5D92FCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C7FD5A-D56C-4C74-91E3-2D9F5D92FCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C7FD5A-D56C-4C74-91E3-2D9F5D92FCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C7FD5A-D56C-4C74-91E3-2D9F5D92FCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF050A9-9367-4232-A195-43AF27FD72BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF050A9-9367-4232-A195-43AF27FD72BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF050A9-9367-4232-A195-43AF27FD72BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF050A9-9367-4232-A195-43AF27FD72BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD37C900-FFC5-411A-9283-6163011C0F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD37C900-FFC5-411A-9283-6163011C0F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD37C900-FFC5-411A-9283-6163011C0F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD37C900-FFC5-411A-9283-6163011C0F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7CE127-B28F-428B-912F-B5C4AD28D6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7CE127-B28F-428B-912F-B5C4AD28D6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7CE127-B28F-428B-912F-B5C4AD28D6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7CE127-B28F-428B-912F-B5C4AD28D6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5CB36DC-D6C1-4AB7-AD7B-9BA356B35017}
+	EndGlobalSection
+EndGlobal
